@@ -1,2 +1,2 @@
 # teaching
-Various materials for bioinformatics courses and seminars that I teach.
+Various materials for bioinformatics courses and hands-on seminars that I teach.
